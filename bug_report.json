@@ -25,6 +25,6 @@
     "6) Also see the attached screenshot of the error page."
     ]
   
-  "Expected Result" : "When you click the Save button, you should be offered a window to save the file.”,
+  "Expected Result" : "When you click the Save button, you should be offered a window to save the file.",
   "Expected Result" : "Open an error window “ORA21090 Exception: Values Error…”"
-  
+}
